@@ -55,7 +55,7 @@ The dataset used is from the [Kaggle Titanic - Machine Learning from Disaster](h
 
 ## 📄 Deliverables
 
-- `Titanic_EDA.ipynb` – Jupyter Notebook with code, visuals, and markdown insights.
+- `eda.ipynb` – Jupyter Notebook with code, visuals, and markdown insights.
 - `Titanic_EDA_Report.pdf` – PDF version of the analysis report.
 - `README.md` – Project documentation (this file).
 
